@@ -84,7 +84,7 @@ Example PHP header template:
 
 ## Python - PEP-8 Requirements
 
- - Line Length of `72` (need to check if this is correct.)
+ - Line Length of `72`
 
 
 
