@@ -11,4 +11,4 @@ Every page on this wiki will contain various pieces of technology/pop culture re
 * [Databases](databases.md)
 * [List of Jetbrains Plugins](jetbrainsPlugins.md)
 * [Other](other.md)
-* [Useful Markdown Stuff](other.md)
+* [Useful Markdown Stuff](usefulMarkdownStuff.md)
