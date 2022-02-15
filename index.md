@@ -1,6 +1,6 @@
 # Home
 
-## Welcome to <NAME-HERE-SUGGESTIONS-WELCOME>
+## Welcome to (NAME-HERE)(SUGGESTIONS-WELCOME)
 
 
 Every page on this wiki will contain various pieces of technology/pop culture related information
