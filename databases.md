@@ -6,3 +6,6 @@
 *This includes, but is not limited to: MySQL, MariaDB, NoSQL*
 
 * [MVVM for Beginners](https://www.codeproject.com/Articles/1112919/MVVM-for-beginners)
+
+
+{% include_relative footer.md %}
