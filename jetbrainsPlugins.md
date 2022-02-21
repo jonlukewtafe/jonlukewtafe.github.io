@@ -22,3 +22,5 @@
 | Prettier ||
 | Shifter ||
 | Tailwind Formatter ||
+
+{% include_relative footer.md %}
