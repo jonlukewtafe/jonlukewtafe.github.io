@@ -11,4 +11,5 @@ Every page on this wiki will contain various pieces of technology/pop culture re
 * [Mobile Application Development](mobileApplicationDevelopment.md)
 * [Text Editors & IDEs](textEditorsAndIdes.md)
 * [Useful Markdown Stuff](usefulMarkdownStuff.md)
+* [List of Ignore File Generator (JetBrains .ignore Plugin) Options to Use by Default](ignoreFileGeneratorList.md)
 * [Other](other.md)
