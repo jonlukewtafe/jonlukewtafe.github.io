@@ -91,3 +91,4 @@ Example PHP header template:
 
 
 
+{% include_relative footer.md %}
