@@ -13,3 +13,5 @@
 |VisualStudioCode|
 |Windows|
 |macOS|
+
+{% include_relative footer.md %}
