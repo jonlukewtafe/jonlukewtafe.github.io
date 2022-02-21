@@ -16,3 +16,5 @@
 
 * [Link5](Link5.com)
 * [Link6](Link6.com)
+
+{% include_relative footer.md %}
