@@ -26,6 +26,6 @@
 4. Search for the "Live Edit" settings (Build, Execution, Deployment -> Debugger -> Live Edit) and tick the Track Changes in HTML, CS and JS option.
 5. Also tick the update in chrome to include HTML, CSS and JS.
 6. OK the changes.
-(from:https://www.jetbrains.com/help/phpstorm/live-editing.html#ws_live_edit_activate_procedure)
+- (from:https://www.jetbrains.com/help/phpstorm/live-editing.html#ws_live_edit_activate_procedure)
 
 **You may still not get immediate updates when it has to compile in a new item that has not been used before.**
