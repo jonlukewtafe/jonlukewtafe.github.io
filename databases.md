@@ -2,14 +2,12 @@
 
 ---
 
-## All links on this page are related to some form of database. This includes, but is not limited to: MySQL, MariaDB & NoSQL
-
-### MongoDB (NoSQL)
+## MongoDB (NoSQL)
 
 * [How to Design a Document Schema in MongoDB](https://www.digitalocean.com/community/tutorials/how-to-design-a-document-schema-in-mongodb)
 * [NoSQL Database Design & Data Modeling (MongoDB)](https://www.mongodb.com/nosql-explained/data-modeling)
 
-### MongoDB Shell URI Components
+## MongoDB Shell URI Components
 
 |URI Component|Meaning|Required/Optional|
 |---|---|---|
@@ -21,11 +19,16 @@
 |port|The host port to use to communicate with the server|Optional (only required if the database being connected to is not using the default port)|
 |defaultdb|The default database to access|Optional|
 
+## Various MongoDB Commands
 
-
-
-
-
+* mongoimport options connection-string file
+  * Available Options:
+    * /db:DATABASE_NAME - What database should the data be added to?
+    * /collection:COLLECTION_NAME - What collection in the database should the data be added to
+  * Connection String:
+    * /host:IP_ADDRESS OR HOST - Where is the database located? (IP Address or Host)
+  * File:
+    * FILE_LOCATION/FILE_NAME.FILE_EXTENSION
 
 {% comment %}
 
