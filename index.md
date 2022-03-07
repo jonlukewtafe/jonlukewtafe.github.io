@@ -1,8 +1,6 @@
 # Home
 
-## Welcome to (NAME-HERE)(SUGGESTIONS-WELCOME)
-
-
+## Welcome to Info Library
 
 Every page on this wiki will contain various pieces of technology/pop culture related information
 
@@ -12,5 +10,5 @@ Every page on this wiki will contain various pieces of technology/pop culture re
 * [Text Editors & IDEs](textEditorsAndIdes.md)
 * [Useful Markdown Stuff](usefulMarkdownStuff.md)
 * [List of Ignore File Generator (JetBrains .ignore Plugin) Options to Use by Default](ignoreFileGeneratorList.md)
-* [Fix for the `npm run watch` loop issue](saasFixedWatchLoop.md)
+* [Web Development](webDevelopment.md)
 * [Other](other.md)
