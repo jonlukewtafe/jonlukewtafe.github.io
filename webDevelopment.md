@@ -20,6 +20,26 @@
 * [HTML5 Game from scratch step by step learning JavaScript](https://www.udemy.com/share/102IQM3@I8OfC40rpJTWn4KZ5UfhfzISYb5g1jLT8RAtbpjd_ybvmpuvdB9dKu5uDFY5/)
 
 
+### PHP/PDO
+* [Practical PHP: Master the Basics and Code Dynamic Websites](https://www.udemy.com/share/101s403@376DTJWBqbMWFd_tlI_GTfZf11uY3dS3c6OKaIkJX_Ll-HWZi4WoFOp30FbZ/)
+* [Learn some advanced features of PHP](https://www.udemy.com/share/1025re3@ZNXteTxwbr00ZAfNktMaqMUzIqeEgHreS1JK7R7YmoWWOV6VK8Nxaj8AgzP0/)
+* [PHP & MySQL course for absolute beginners | Become a PHP pro](https://www.udemy.com/share/102rbS3@WkUtPqyWq777QlSKsV46HGgZurSQFrmAWvhqaIJO-8EtDKsNVtPbzsEaxLTo/)
+
+### MySQL/NoSQL/MongoDB
+* [Richard Stibbard's "MySQL/PDO Connection" - A mini-course](https://www.udemy.com/share/102quc3@L4f47XLv2kqPH2dV2ZAvtK24YDlzCVvSOfDTHuF3pzYvqf3GvD-PmFvDgNAP/)
+* [Master MongoDB, the NOSQL leader with Clarity and Confidence](https://www.udemy.com/share/101vSu3@s3XPPA5cFfd9SCycMQBw2EYOyRNDAgO0XK4fxFejkWcoZUicFID0gaGFOl6t/)
+
+
+
+* [Amazon Web Services (AWS) - Zero to Hero](https://www.udemy.com/share/101th63@8b4oeaWPXOeXuZ5ZIf62NHw_nMReVLA4sIz0_yP9FygNO4kJZ_KjbdSQzKi9/)
+* [Laravel 8 - Build a shopping cart and deploy it on Cloudways](https://www.udemy.com/share/105vje3@wt7L6kilPq7vsB-xPdz_ovKGPhiA7HC-_P40oAWDUWNdOG2w2fPjmMiflaEo/)
+* [Create a CRUD API with Laravel and Postman](https://www.udemy.com/share/102RiW3@aT_tCIa7L6WYl-45fU3Hv0Vo-q2ih9vRgqt7gC2LMnF0RQiayZtSqJI39pM3/)
+
+
+
+
+
+
 ## Other
 
 * [Fix for the `npm run watch` loop issue](saasFixedWatchLoop.md)
