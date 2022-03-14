@@ -23,7 +23,7 @@
 ### PHP/PDO
 * [Practical PHP: Master the Basics and Code Dynamic Websites](https://www.udemy.com/share/101s403@376DTJWBqbMWFd_tlI_GTfZf11uY3dS3c6OKaIkJX_Ll-HWZi4WoFOp30FbZ/)
 * [Learn some advanced features of PHP](https://www.udemy.com/share/1025re3@ZNXteTxwbr00ZAfNktMaqMUzIqeEgHreS1JK7R7YmoWWOV6VK8Nxaj8AgzP0/)
-* [PHP & MySQL course for absolute beginners | Become a PHP pro](https://www.udemy.com/share/102rbS3@WkUtPqyWq777QlSKsV46HGgZurSQFrmAWvhqaIJO-8EtDKsNVtPbzsEaxLTo/)
+* [PHP & MySQL course for absolute beginners - Become a PHP pro](https://www.udemy.com/share/102rbS3@WkUtPqyWq777QlSKsV46HGgZurSQFrmAWvhqaIJO-8EtDKsNVtPbzsEaxLTo/)
 
 ### MySQL/NoSQL/MongoDB
 * [Richard Stibbard's "MySQL/PDO Connection" - A mini-course](https://www.udemy.com/share/102quc3@L4f47XLv2kqPH2dV2ZAvtK24YDlzCVvSOfDTHuF3pzYvqf3GvD-PmFvDgNAP/)
