@@ -10,7 +10,7 @@ This page has all links etc. that don't fit into the other categories.
 ## SaaS Hints and Tips
 ### Portfolio Part 1
 
-![SaaS Hints and Tips 1](/assets/SaaS - Hints and Tips 1.png)
+![SaaS Hints and Tips 1](/assets/images/SaasHintsAndTips1.png)
 
 
 
