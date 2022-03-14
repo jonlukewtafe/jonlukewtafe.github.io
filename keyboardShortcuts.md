@@ -24,3 +24,5 @@ All keyboard commands below assume you are using a combination of Windows and th
    1. You can use `ls -l` to get a wide view of the files (this includes permissions for each file)
    2. You can also use `ls -a` to view all files and folders in the current working directory
    3. You can also use `ls -al` to both view all files and folders in the current working directory and view the permissions and finer details for each folder/file.
+
+{% include_relative footer.md %}
