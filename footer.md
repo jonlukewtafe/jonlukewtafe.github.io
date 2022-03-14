@@ -1,4 +1,4 @@
 ---
 
-[Home](index.html)
-[Back](<button onclick="history.back()">Go Back</button>)
+<button href="index.html">Home</button>
+<button onclick="history.back()">Go Back</button>
