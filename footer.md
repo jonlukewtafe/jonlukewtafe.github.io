@@ -1,4 +1,4 @@
 ---
 
+<a href="javascript:history.back()">Previous Page</a>
 <a href="index.html">Home</a>
-<button onclick="history.back()">Go Back</button>
