@@ -83,13 +83,4 @@ Example PHP header template:
     - The browser icons should show.
     - Click on the icon of the browser you wish to use to open the file.
 
-# Other Information
-
-## Python - PEP-8 Requirements
-
- - Line Length of `72`
-
-
-
-
 {% include_relative footer.md %}
