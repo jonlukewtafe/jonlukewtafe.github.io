@@ -8,13 +8,9 @@ This page has all links etc. that don't fit into the other categories.
 - [APA 7th Edition for Microsoft Word](https://github.com/briankavanaugh/APA-7th-Edition)
 
 ## SaaS Hints and Tips
+
 ### Portfolio Part 1
 
 ![SaaS Hints and Tips 1](/assets/images/SaasHintsAndTips1.png)
-
-
-
-
-
 
 {% include_relative footer.md %}

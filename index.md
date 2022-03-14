@@ -1,6 +1,6 @@
 # Home
 
-## Welcome to Info Library
+## Welcome to the Info Library
 
 Every page on this wiki will contain various pieces of technology/pop culture related information
 

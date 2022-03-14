@@ -9,12 +9,12 @@
 
 ### Cluster - Intermediate IoT
 
-* [Link3](Link3.com)
-* [Link4](Link4.com)
+* [Link3]
+* [Link4]
 
 ### Cluster - Advanced Programming
 
-* [Link5](Link5.com)
-* [Link6](Link6.com)
+* [Link5]
+* [Link6]
 
 {% include_relative footer.md %}
