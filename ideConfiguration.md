@@ -45,3 +45,5 @@ Example PHP header template:
     - Hover over an open PHP document in PHPStorm.
     - The browser icons should show.
     - Click on the icon of the browser you wish to use to open the file.
+
+{% include_relative footer.md %}
