@@ -13,4 +13,9 @@ This page has all links etc. that don't fit into the other categories.
 
 ![SaaS Hints and Tips 1](/assets/images/SaasHintsAndTips1.png)
 
+
+## IoT Helpful Links
+
+[Power Calculator (Power, Voltage, Current, Resistance)](https://www.rapidtables.com/calc/electric/power-calculator.html)
+
 {% include_relative footer.md %}
