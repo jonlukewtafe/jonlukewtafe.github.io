@@ -16,7 +16,7 @@ This page has all links etc. that don't fit into the other categories.
 
 ## IoT Helpful Links
 
-[Power Calculator (Power, Voltage, Current, Resistance)](https://www.rapidtables.com/calc/electric/power-calculator.html)
-[Battery Runtime Calculator (Excel)](BatteryRuntimeCalculator.xlsx)
+- [Power Calculator (Power, Voltage, Current, Resistance)](https://www.rapidtables.com/calc/electric/power-calculator.html)
+- [Battery Runtime Calculator (Excel)](BatteryRuntimeCalculator.xlsx)
 
 {% include_relative footer.md %}
