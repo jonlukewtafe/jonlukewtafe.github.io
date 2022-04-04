@@ -40,5 +40,6 @@
 ## Other
 
 * [Fix for the `npm run watch` loop issue](saasFixedWatchLoop.md)
+* [HTTP Response Codes](https://www.belugacdn.com/http-response-codes/)
 
 {% include_relative footer.md %}
