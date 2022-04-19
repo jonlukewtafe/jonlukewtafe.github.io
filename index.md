@@ -6,8 +6,9 @@ Every page on this wiki will contain various pieces of technology/pop culture re
 
 * [Assorted Keyboard Shortcuts](keyboardShortcuts)
 * [Databases](databases)
+* [IoT Useful Links and Other Resources](iotUsefulLinks)
+* [Markdown Stuff](markdownStuff)
 * [Python Information](pythonStuff)
 * [Text Editors & IDEs](textEditorsAndIdes)
-* [Markdown Stuff](markdownStuff)
 * [Web Development](webDevelopment)
 * [Other](other)
