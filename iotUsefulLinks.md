@@ -1,5 +1,9 @@
 # IoT Useful Links and Other Resources
 
+## General - Stuff that is pertinent to all IoT devices.
+
+- [Power Calculator (Power, Voltage, Current, Resistance)](https://www.rapidtables.com/calc/electric/power-calculator.html)
+- [Battery Runtime Calculator (Excel)](BatteryRuntimeCalculator.xlsx)
 
 ## Arduino
 
