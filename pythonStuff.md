@@ -8,4 +8,11 @@
   - [How to Write Beautiful Python Code With PEP-8](https://realpython.com/python-pep8/)
   - [Clean Code in Python](https://testdriven.io/blog/clean-code-python/)
 
+- ## Guides and Other Useful Information
+  - [A Guide to Python's Magic Methods](https://rszalski.github.io/magicmethods/)
+  - []()
+  - []()
+  
+
+
 {% include_relative footer.md %}
