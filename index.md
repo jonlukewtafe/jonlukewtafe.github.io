@@ -2,9 +2,7 @@
 
 ## Welcome to the Info Library
 
-Every page on this wiki will contain various pieces of technology/pop culture related information
-
-* [Assorted Keyboard Shortcuts](keyboardShortcuts)
+## Semester 1 2022
 * [Databases](databases)
 * [IoT Useful Links and Other Resources](iotUsefulLinks)
 * [Markdown Stuff](markdownStuff)
@@ -12,3 +10,9 @@ Every page on this wiki will contain various pieces of technology/pop culture re
 * [Text Editors & IDEs](textEditorsAndIdes)
 * [Web Development](webDevelopment)
 * [Other](other)
+
+## Semester 2 2022
+* [Useful Excel Functions](excelFunctions)
+
+## Other
+* [Assorted Keyboard Shortcuts](keyboardShortcuts)
