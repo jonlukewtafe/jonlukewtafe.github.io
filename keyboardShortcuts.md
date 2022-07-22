@@ -2,6 +2,25 @@
 
 All keyboard commands below assume you are using a combination of Windows and the Cmder CLI (easily available through Laragon (Windows only))
 
+## Useful Microsoft Excel Shortcuts
+
+1. Select an entire row of data
+   * Select the first cell in the row you want selected
+   * Press Shift + Ctrl + Right Arrow
+2. Return to the first data point in the first table row
+   * Press Ctrl + Home
+3. Select a column of data
+   * Select the frist cell in the column
+   * Press Shift + Ctrl + Down Arrow
+4. Select all the data in the table
+   * Press Ctrl + A
+5. Create an absolute reference from a regular reference
+   * Type in a regular reference
+   * Press F4
+6. 
+
+
+
 ## PHPStorm, PyCharm and other JetBrains IDEs
 
 1. Move a line of code up: `CTRL+SHIFT+UP_ARROW`
