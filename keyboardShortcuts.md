@@ -17,7 +17,9 @@ All keyboard commands below assume you are using a combination of Windows and th
 5. Create an absolute reference from a regular reference
    * Type in a regular reference
    * Press F4
-6. 
+6. Move the active cell around the four corners of the selected range.
+   * Ctrl + . (period/dot)
+8. 
 
 
 
