@@ -13,6 +13,7 @@
 
 ## Semester 2 2022
 * [Useful Excel Functions](excelFunctions)
+* [Mobile Application Development Notes and Links](mobileAppDevelopment)
 
 ## Other
 * [Assorted Keyboard Shortcuts](keyboardShortcuts)
