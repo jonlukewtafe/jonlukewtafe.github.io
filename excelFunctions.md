@@ -42,7 +42,7 @@
    1. Estimates the variance based on a given sample of a dataset, ignoring logical values and text in the sample.
    2. (Microsoft's Support Page for this function)[https://support.microsoft.com/en-us/office/var-s-function-913633de-136b-449d-813e-65a00b2b990b]
 3. `STDEV.P`
-   1. 
+   1. Calculates the standard deviation based on the entire population given as arguments, ignoring logical values and text.
 4. `STDEV.S`
 5. 
 
