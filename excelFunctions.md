@@ -28,9 +28,9 @@
 4. `QUARTILE.EXC`
    1. This function splits the selected dataset into two halves by using the medium.
    2. It then calculates the first quartile as the median value in the lower half (first half) and the third quartile as the median value in the upper half.
-   3. Keep in mind, that this function *excludes* the median of the initial dataset when calculating the first and third quartiles!
+   3. Keep in mind, that this function **excludes** the median of the initial dataset when calculating the first and third quartiles!
 5. `QUARTILE.INC`
-   1. This function performs the same function as `QUARTILE.EXC`, but instead includes the median of the initial dataset when calculating the first and third quartiles.
+   1. This function performs the same function as `QUARTILE.EXC`, but instead **includes** the median of the initial dataset when calculating the first and third quartiles.
    2. Additionally, the median of the initial dataset is included in both the first and third quartiles when calculating their values.
 6.
 
