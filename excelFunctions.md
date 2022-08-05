@@ -32,6 +32,6 @@
 5. `QUARTILE.INC`
    1. This function performs the same function as `QUARTILE.EXC`, but instead **includes** the median of the initial dataset when calculating the first and third quartiles.
    2. Additionally, the median of the initial dataset is included in both the first and third quartiles when calculating their values.
-6.
+6. ``
 
 {% include_relative footer.md %}
