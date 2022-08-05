@@ -4,6 +4,14 @@
 
 ## Maths
 
+1. `QUARTILE.EXC`
+   1. This function splits the selected dataset into two halves by using the medium.
+   2. It then calculates the first quartile as the median value in the lower half (first half) and the third quartile as the median value in the upper half.
+   3. Keep in mind, that this function **excludes** the median of the initial dataset when calculating the first and third quartiles!
+2. `QUARTILE.INC`
+   1. This function performs the same function as `QUARTILE.EXC`, but instead **includes** the median of the initial dataset when calculating the first and third quartiles.
+   2. Additionally, the median of the initial dataset is included in both the first and third quartiles when calculating their values.
+
 ## Logic
 
 1. `IF`
@@ -25,13 +33,17 @@
    1. Counts the number of cells which match the given condition
    2. Useful for if you want to know the number of cells that match a given condition.
       1. This condition could use other functions.
-4. `QUARTILE.EXC`
-   1. This function splits the selected dataset into two halves by using the medium.
-   2. It then calculates the first quartile as the median value in the lower half (first half) and the third quartile as the median value in the upper half.
-   3. Keep in mind, that this function **excludes** the median of the initial dataset when calculating the first and third quartiles!
-5. `QUARTILE.INC`
-   1. This function performs the same function as `QUARTILE.EXC`, but instead **includes** the median of the initial dataset when calculating the first and third quartiles.
-   2. Additionally, the median of the initial dataset is included in both the first and third quartiles when calculating their values.
-6. ``
+
+## To Be Added
+1. `VAR.P`
+   1. Calculates the variance of the given dataset based on the entire population, ignoring logical values and text in the population.
+   2. (Microsoft's Support Page for this function)[https://support.microsoft.com/en-us/office/var-p-function-73d1285c-108c-4843-ba5d-a51f90656f3a]
+2. `VAR.S`
+   1. Estimates the variance based on a given sample of a dataset, ignoring logical values and text in the sample.
+   2. (Microsoft's Support Page for this function)[https://support.microsoft.com/en-us/office/var-s-function-913633de-136b-449d-813e-65a00b2b990b]
+3. `STDEV.P`
+   1. 
+4. `STDEV.S`
+5. 
 
 {% include_relative footer.md %}
