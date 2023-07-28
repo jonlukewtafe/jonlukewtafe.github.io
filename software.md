@@ -1,6 +1,6 @@
 # Software
 
-## Splunk Startup Instructions - Linux (Post Initial Installation)
+## Splunk Startup Instructions - Linux (After Initial Installation)
 1. Load the Kali VM that you installed Splunk into.
 2. Login (kali/kali)
 3. Once logged in, open the Terminal.
