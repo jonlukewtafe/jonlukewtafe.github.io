@@ -2,18 +2,8 @@
 
 ## Welcome to the Info Library
 
-## Semester 1 2022
-* [Databases](databases)
-* [IoT Useful Links and Other Resources](iotUsefulLinks)
-* [Markdown Stuff](markdownStuff)
-* [Python Information](pythonStuff)
-* [Text Editors & IDEs](textEditorsAndIdes)
-* [Web Development](webDevelopment)
-* [Other](other)
-
-## Semester 2 2022
-* [Useful Excel Functions](excelFunctions)
-* [Mobile Application Development Notes and Links](mobileAppDevelopment)
+## Semester 2 2023
+* [Software](software)
 
 ## Other
-* [Assorted Keyboard Shortcuts](keyboardShortcuts)
+* [2022 Stuff](2022stuff)
