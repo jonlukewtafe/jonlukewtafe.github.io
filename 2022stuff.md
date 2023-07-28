@@ -15,3 +15,5 @@
 
 ## Other
 * [Assorted Keyboard Shortcuts](keyboardShortcuts)
+
+{% include_relative footer.md %}
