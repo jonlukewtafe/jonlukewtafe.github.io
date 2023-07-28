@@ -10,3 +10,5 @@
 7. Hit the `Enter` key
 8. Now, enter the password for the user account you used to login (kali)
 9. Splunk should now start
+
+{% include_relative footer.md %}
