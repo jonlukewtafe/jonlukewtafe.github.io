@@ -7,3 +7,5 @@
 
 ## Other
 * [2022 Stuff](2022stuff)
+
+{% include_relative footer.md %}
