@@ -30,10 +30,7 @@
   * File:
     * FILE_LOCATION/FILE_NAME.FILE_EXTENSION
 
-{% comment %}
 
 * [MVVM for Beginners](https://www.codeproject.com/Articles/1112919/MVVM-for-beginners)
-
-{% endcomment %}
 
 {% include_relative footer.md %}
