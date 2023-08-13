@@ -1,4 +1,5 @@
 # Cisco Inital Router Configuration Commands
+
 |Description|Command|
 | --- | --- |
 |User EXEC mode |Router > |
