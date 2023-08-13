@@ -17,3 +17,5 @@
 |Configure an interface.  (Gigabit interface) |Router(config)# **interface gig0/0**  <br>Router(config-if)# **description** *description*  <br>Router(config-if)# **ip address** *address mask*  <br>Router(config-if)# **no shutdown**|
 |To enable IPv6 routing |Router(config)# **ipv6 unicast-routing**|
 |Save the configuration to NVRAM.  |**copy running-config startup-config**  <br>Example:  <br>Router# **copy running-config startup-config**  Router#|
+|Add a local username to the router|**username** *usernamehere* **secret** *passwordhere*|
+|Configure local AAA authentication for console access on the router| Router(config)# aaa new-model <br> Router(config)# aaa authentication login default local|
