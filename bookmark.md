@@ -11,3 +11,5 @@
 * []()
 * []()
 * []()
+
+{% include_relative footer.md %}
