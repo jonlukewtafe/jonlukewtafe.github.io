@@ -37,6 +37,14 @@
 * [Laravel 8 - Build a shopping cart and deploy it on Cloudways](https://www.udemy.com/share/105vje3@wt7L6kilPq7vsB-xPdz_ovKGPhiA7HC-_P40oAWDUWNdOG2w2fPjmMiflaEo/)
 * [Create a CRUD API with Laravel and Postman](https://www.udemy.com/share/102RiW3@aT_tCIa7L6WYl-45fU3Hv0Vo-q2ih9vRgqt7gC2LMnF0RQiayZtSqJI39pM3/)
 
+### Static Website Generators
+* [Hugo](https://gohugo.io/)
+* [Docsify](https://docsify.js.org/#/)
+* [Word to Markdown Converter](https://word2md.com/)
+* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) provides a basic rundown of most of the essential Markdown symbols etc.
+
+
+
 ## Other
 
 * [Fix for the `npm run watch` loop issue](saasFixedWatchLoop.md)
