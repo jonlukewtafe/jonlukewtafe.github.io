@@ -25,3 +25,4 @@
 #### Other
 * [LeetCode](https://leetcode.com/)
 * [PHP Extension Community Library (PECL)](https://pecl.php.net/)
+* [Text Editors and IDEs](textEditorsAndIdes)
