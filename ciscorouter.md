@@ -19,3 +19,5 @@
 |Save the configuration to NVRAM.  |**copy running-config startup-config**  <br>Example:  <br>Router# **copy running-config startup-config**  Router#|
 |Add a local username to the router|**username** *usernamehere* **secret** *passwordhere*|
 |Configure local AAA authentication for console access on the router| Router(config)# aaa new-model <br> Router(config)# aaa authentication login default local|
+
+{% include_relative footer.md %}
