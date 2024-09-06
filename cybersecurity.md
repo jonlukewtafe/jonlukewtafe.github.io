@@ -6,3 +6,4 @@
 #### Other
 ##### Cybersecurity Courses
 * [EC-Council - The Cybersecurity Awareness Month Super Sale](https://coderedmarketing.eccouncil.org/cybersecurity-awareness-limited-time-offer/)
+{% include_relative footer.md %}
