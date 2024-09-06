@@ -34,3 +34,5 @@
   * ip access-group {access-list-number `or` access-list-name} {in `or` out}
 *  To remove an access control list from an interface, first enter the `no ip access-group` interface configuration command.
 *  To remove the access control list entirely, use the `no access-list` global configuration command.
+
+{% include_relative footer.md %}
